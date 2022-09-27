@@ -1,46 +1,27 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O acompanhamento de saúde das pessoas inicia ainda na gestação. Desde então é uma vida de papeladas, documentos, exames, receitas, enfim... uma infinidade de informações às quais é preciso se atentar para não perder datas de exames, retirada de resultados, consultas, retornos e tantas outras ações relacionadas aos tratamentos médicos que pode realmente ser sinônimo de correria, stress, canseira e muita dor de cabeça. Para conciliar todas as informações passadas pelos profissionais de saúde e não errar na manutenção do tratamento em casa, é preciso uma organização e disciplina gigantescas! Para aqueles em tratamento de uma doença prolongada (um quadro de câncer, por exemplo) a situação é ainda pior, pois além do abalo psicológico a pessoa se vê na obrigação de lidar com toda a situação burocrática durante o acompanhamento médico. O surgimento de uma doença, causa uma grande mudança na vida do paciente e na família, caso seja uma situação que o indivíduo dependa de algum familiar para cuidados diários. Isso envolve muitas vezes alteração em rotina pessoal e no ambiente familiar.   
+E se houvesse um local onde pudesse ser acessada facilmente a vida médica do paciente, desde o diagnóstico, tratamento, consultas, exames, receitas, enfim, todos os dados necessários ao paciente para que ele possa ser informado, por exemplo, sobre qual remédio tomar com a dosagem correspondente e no horário correto? Além disso, os profissionais de saúde teriam as informações precisas sobre aquele caso específico com riqueza de detalhes, levando a um atendimento assertivo, tempo de atendimento reduzido, e sem que o paciente precise contar toda a sua história para o médico (como sempre acontece a cada vez que se comparece a uma consulta com um profissional não familiarizado com o paciente em atendimento).  
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Como disposto acima, quando se trata de uma pessoa com necessidade de cuidados especiais a saúde exige uma quantidade de informações extensa e de variadas naturezas (biológica, física, dieta, horários...) que pode gerar enganos e erros com risco envolvendo o bem estar do indivíduo.
 
 ## Objetivos
+Unificar informações relevantes sobre o tratamento médico de pacientes afim de facilitar a rotina de cuidados necessários ao quadro clínico do paciente.   
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos específicos são:  
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Criar um ambiente onde há informações sobre o medicamento prescrito pelo médico com detalhes de dosagem e horários;  
+
+Elaborar recurso de agenda para acompanhamento de anotações de consultas;  
+
+Espaço para orientações gerais expostas pelo profissional de saúde como complemento do tratamento principal (dietas, mudanças de hábitos, exercícios físicos, etc.).  
+
 
 ## Justificativa
+Um artigo publicado na Revista Mineira de enfermagem REME (2005) sobre cuidados nos domicílios em áreas rurais (http://www.reme.org.br/artigo/detalhes/479), indica que o ato de acompanhar/cuidar de uma pessoa no ambiente familiar vai além de meras atividades desempenhadas diariamente. A pessoa que se encontra nessa posição de cuidar de alguém precisa de ajuda e orientações claras para realizar essas tarefas de maneira assertiva, pois geralmente elas não têm qualificação nessa área.  
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Diante dessa realidade nos propomos a facilitar o tratamento dos indivíduos com necessidades de cuidados médicos especiais inserindo o software de forma orgânica a sua rotina.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Tendo em vista que grande parte das pessoas independente da faixa etária necessitam de medicamentos e cuidados especiais em algum momento, decidimos concentrar nossos esforços ao público que sofre com esquecimentos e complicações com os horários devido a rotina.   
