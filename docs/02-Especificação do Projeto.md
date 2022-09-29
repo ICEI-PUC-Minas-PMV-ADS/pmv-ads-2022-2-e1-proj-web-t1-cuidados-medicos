@@ -15,9 +15,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Cláudia Assis       |Obter, de forma organizada e acessível, 
-                     as informações de medicamentos com seus 
-                     horários e dosagens.                 | Não esquecer de fazê-las               |
+|Cláudia Assis       |                                    |                                        |
+|                    |                                    | Não esquecer de fazê-las               |
 |                    |                                    | Permitir que possam administrar contas |
 
 
