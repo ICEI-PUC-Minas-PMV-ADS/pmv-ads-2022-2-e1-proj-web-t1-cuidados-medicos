@@ -14,6 +14,7 @@ A equipe está organizada da seguinte maneira:
 ● Equipe de Desenvolvimento
 
 ○ Emmanuel Fernandes
+
 ○ Jardel 
 
 ● Equipe de Design
