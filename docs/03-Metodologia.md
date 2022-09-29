@@ -3,7 +3,17 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do 
+processo de desenvolvimento.
+A equipe está organizada da seguinte maneira:
+● Scrum Master: Silmara Barbosa
+● Product Owner: Pedro Falcão
+● Equipe de Desenvolvimento
+○ Emmanuel Fernandes
+○ Jardel 
+○ Rodrigo Richard
+● Equipe de Design
+○ Guilherme Almeida
 
 ## Controle de Versão
 
