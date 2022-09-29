@@ -60,7 +60,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+A equipe definiu os papéis de cada membro durante a implementação do Scrum e em seguida foram divididas as tarefas a concluir.                                         Para o desenvolvimento dessa etapa do projeto, foi acordado a realização de reuniões a cada dois dias para a entrega das Sprints definidas, além de alinhamento da equipe e definição dos próximos passos no desenvolvimento da aplicação. O andamento do projeto, bem como os responsáveis pelas atividades necessárias serão acompanhadas através da ferramenta TRELLO.
+
+Linha teste 
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
