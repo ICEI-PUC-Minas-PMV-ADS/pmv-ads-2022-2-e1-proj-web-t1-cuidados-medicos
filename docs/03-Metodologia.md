@@ -5,21 +5,7 @@
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do 
 processo de desenvolvimento.
-A equipe está organizada da seguinte maneira:
 
-● Scrum Master: Silmara Barbosa
-
-● Product Owner: Pedro Falcão
-
-● Equipe de Desenvolvimento
-
-○ Emmanuel Fernandes
-
-○ Jardel 
-
-● Equipe de Design
-
-○ Guilherme Almeida
 
 ## Controle de Versão
 
@@ -55,7 +41,19 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+● Scrum Master: Silmara Barbosa
+
+● Product Owner: Pedro Falcão
+
+● Equipe de Desenvolvimento
+
+○ Emmanuel Fernandes
+
+○ Jardel 
+
+● Equipe de Design
+
+○ Guilherme Almeida
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
