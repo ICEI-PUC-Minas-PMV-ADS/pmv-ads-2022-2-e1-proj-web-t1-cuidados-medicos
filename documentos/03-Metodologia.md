@@ -45,10 +45,15 @@ etiquetas:
 
 ○ Guilherme Almeida
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
+
+●	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+●	To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+●	In process: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+●	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+●	To solve: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/S9JQ34Ly/projeto-cuidados-m%C3%A9dicos. 
 
 ### Processo
 
@@ -69,6 +74,7 @@ As ferramentas empregadas no projeto são:
 - Editor de código.
 - Ferramentas de comunicação
 - Ferramentas de desenho de tela (_wireframing_)
+- Trello
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
