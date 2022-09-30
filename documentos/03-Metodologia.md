@@ -39,7 +39,7 @@ etiquetas:
 
 ○ Emmanuel Fernandes
 
-○ Jardel 
+○ Jardel  Maldonado
 
 ● Equipe de Design
 
