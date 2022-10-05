@@ -6,16 +6,13 @@ A seguir, apresentamos os detalhes técnicos da solução elaborada relativos à
 ![image](https://user-images.githubusercontent.com/106809153/193957455-96a156f0-a080-45cd-a9aa-c24b9643dcad.png)
                             Arquitetura da Solução
 
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura - Arquitetura da Solução</center>
-
 A solução implementada conta com os seguintes módulos:
-●	Navegador - Interface básica do sistema 
-  ○	Página Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-  ○	Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-    ■	Categorias – opções de dados/informações a ser visualizadas;
-    ■	Anotações importantes – inserção de dados pelos usuários sobre as consultas/exames marcados.
-●	Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+  Navegador - Interface básica do sistema 
+    Página Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+    Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+    	Categorias – opções de dados/informações a ser visualizadas;
+    	Anotações importantes – inserção de dados pelos usuários sobre as consultas/exames marcados.
+	Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
 >
