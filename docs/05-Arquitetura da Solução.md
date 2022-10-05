@@ -1,29 +1,21 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A seguir, apresentamos os detalhes técnicos da solução elaborada relativos à hospedagem e aos componentes que fazem parte da solução.
 
 ## Diagrama de componentes
-
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
-
-Exemplo: 
-
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+![image](https://user-images.githubusercontent.com/106809153/193957455-96a156f0-a080-45cd-a9aa-c24b9643dcad.png)
+                            Arquitetura da Solução
 
 ![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<center>Figura - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
-- **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+●	Navegador - Interface básica do sistema 
+  ○	Página Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+  ○	Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+    ■	Categorias – opções de dados/informações a ser visualizadas;
+    ■	Anotações importantes – inserção de dados pelos usuários sobre as consultas/exames marcados.
+●	Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
 >
@@ -67,11 +59,12 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Hospedagem
+O site utiliza a plataforma do Firebase Hosting como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+                                  https://link_exemplo.firebaseapp.com (Apenas exemplo - ainda será feito)
+
+A publicação do site no Firebase Hosting é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
+                                  https://git.firebasecom/link_exemplo.git (Apenas exemplo - ainda será feito)
+
+
