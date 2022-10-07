@@ -9,7 +9,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Captura de Tela (4)](https://user-images.githubusercontent.com/114194617/193956228-40b0e411-ce3a-4a7f-9c59-dff7c35da81d.png)
+![Captura de Tela (8)](https://user-images.githubusercontent.com/114194617/194676217-e8cfb3c6-1af6-4fbe-9bc9-04b1636c76f6.png)
+
 
 
 
