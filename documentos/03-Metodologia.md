@@ -59,13 +59,6 @@ O quadro kanban do grupo no Trello está disponível através da URL https://tre
 
 A equipe definiu os papéis de cada membro durante a implementação do Scrum e em seguida foram divididas as tarefas a concluir.    Para o desenvolvimento dessa etapa do projeto, foi acordado a realização de reuniões a cada dois dias para a entrega das Sprints definidas, além de alinhamento da equipe e definição dos próximos passos no desenvolvimento da aplicação. O andamento do projeto, bem como os responsáveis pelas atividades necessárias serão acompanhadas através da ferramenta TRELLO.
 
-Linha teste 
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ### Ferramentas
 
@@ -81,9 +74,3 @@ sistema de versão. As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
