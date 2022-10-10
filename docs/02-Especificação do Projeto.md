@@ -6,21 +6,18 @@ O problema foi identificado através de conversas e impressões dos membros da e
 
 Claudia Assis tem 37 anos, babá, cuida de duas crianças: uma de cinco anos com problemas respiratórios e outra de 4 meses. Gerencia as vitaminas, vacinas, consultas do bebê, além de acompanhar os medicamentos e exercícios da criança mais velha.
 
-Jade Avelar tem 35 anos, personal Trainer, dona do próprio estúdio de treinamento funcional e estudante ocorreu uma gravidez não planejada desenvolveu pressão alta.  durante a gravidez
+Jade Avelar tem 35 anos, personal Trainer, dona do próprio estúdio de treinamento funcional e estudante ocorreu uma gravidez não planejada desenvolveu pressão alta.  durante a gravidez.
+
+![image](https://user-images.githubusercontent.com/106809153/194790229-463805e1-815e-4cf6-961f-b2a5a3510d3c.png)
+
 
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Cláudia Assis       |                                    |                                        |
-|                    |                                    | Não esquecer de fazê-las               |
-|                    |                                    | Permitir que possam administrar contas |
 
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+![image](https://user-images.githubusercontent.com/106809153/194790630-abaec30f-7011-4bcf-83a4-b8a3c5c8f5ab.png)
 
 
 ## Requisitos
