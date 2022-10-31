@@ -1,0 +1,65 @@
+.photo {
+    height: 140px;
+    width: 98px;
+    padding-right: 25px;
+ }
+
+.photo1{
+    height: 140px;  
+    width: 155px;
+    padding-right:15px;
+}
+
+.photo2{
+    height: 160px;
+    width: 205px;
+    padding-right:25px;
+}
+
+.photo3{
+    height: 140px;
+    width: 145px;
+    padding-right:25px;
+}
+
+.photo4{
+    height: 140px;
+    width: 145px;
+    padding-right:25px;
+}
+
+.escrita {
+    flex-direction: row;
+    position: relative;
+    width: 69%;
+    margin: 0%;
+    padding-right: 75px;
+}
+
+ul {
+    display: flex;   
+    list-style: none;
+    padding: 50px;
+    position: relative;
+    flex-direction: row;
+    margin: 0;
+    text-align: justify;
+}
+
+.block1{
+    display: block;
+    text-align: left;
+    margin:-25px;
+}
+
+.block2{
+    display: block;
+    text-align: left;
+    margin: -30px;
+}
+
+ul li >p {
+    text-align: justify;
+    align-items: center;
+    border: 505px;
+}
