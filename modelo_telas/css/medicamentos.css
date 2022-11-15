@@ -1,65 +1,18 @@
-.photo {
-    height: 140px;
-    width: 98px;
-    padding-right: 25px;
- }
-
-.photo1{
-    height: 140px;  
-    width: 155px;
-    padding-right:15px;
-}
-
-.photo2{
-    height: 160px;
-    width: 205px;
-    padding-right:25px;
-}
-
-.photo3{
-    height: 140px;
-    width: 145px;
-    padding-right:25px;
-}
-
-.photo4{
-    height: 140px;
-    width: 145px;
-    padding-right:25px;
-}
-
-.escrita {
-    flex-direction: row;
-    position: relative;
-    width: 69%;
-    margin: 0%;
-    padding-right: 75px;
-}
-
-ul {
-    display: flex;   
-    list-style: none;
-    padding: 50px;
-    position: relative;
-    flex-direction: row;
-    margin: 0;
-    text-align: justify;
-}
-
-.block1{
-    display: block;
+.texto {
     text-align: left;
-    margin:-25px;
+    width: 23%;
+    padding: 0;
 }
 
-.block2{
-    display: block;
-    text-align: left;
-    margin: -30px;
-}
-
-ul li >p {
-    text-align: justify;
-    align-items: center;
-    border: 505px;
+img {
+    width: 10%;
+    padding: 12px;
+}    
+    
+.flexbox-item {
+    display: flex;
+    flex-wrap:wrap;
+    position: relative;
+    padding-top: 30px;
+    justify-content: stretch
 }

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Cuidados Médicos</title>
+    <link rel="icon" type="image/x-icon" href="assets/foia.png" />
+    <link href="css/colors.css" rel="stylesheet" />
+    <link href="css/home.css" rel="stylesheet" />
+    <link href="css/medicamentos.css" rel="stylesheet" />
+
+</head>
+<header>
+    <script src="js/dbremedios.js"></script>
+</header>
+
+<body>
+    <div class="d-flex" id="wrapper">
+        <!-- The sidebar menu. -->
+        <div class="border-end bg-white" id="sidebar-wrapper">
+            <div class="sidebar-heading border-bottom bg-light">CUIDADOS MÉDICOS <img class="icon"
+                    src="assets/foia.png"></div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="home.html">HOME</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3"
+                    href="medicos.html">MÉDICOS</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3"
+                    href="exames.html">EXAMES</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3"
+                    href="tela medicamentos.html">MEDICAMENTOS</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3"
+                    href="consutlas.html">CONSULTA</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3"
+                    href="outros.html">OUTROS</a>
+            </div>
+        </div>
+        <!-- Page content wrapper-->
+        <div class="page-content-wrapper">
+            <!-- Top navigation-->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button class="btn btn-primary" id="sidebarToggle">Menu</button>
+                </div>
+            </nav>
+            <!-- Page content-->
+            <h1 class="title">Medicamentos</h1>
+            <div class="flexbox-item" id="lista-remedios">
+
+            </div>
+
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- Medicamentos Data-->
+        <script>
+            var med = '';
+            for (i = 0; i < db.dados.length; i++) {
+                med += `<img src="${db.dados[i].ilustracao}"> <p class='texto'> <br><b> Medicamento:</b> ${db.dados[i].nome} <br> <b>Descrição:</b> ${db.dados[i].descricao} <br><b> Dosagem/Rotina:</b> ${db.dados[i].dosagemRotina}</p>`;
+            }
+            document.getElementById("lista-remedios").innerHTML = med;
+        </script>
+</body>
+
+</html>
