@@ -1,5 +1,41 @@
 # Programação de Funcionalidades
 
+Abaixo seguem as telas desenvolvidas para atender às funcionalidades do sistema.
+
+### Medicamentos do paciente (RF-001/ RF-003)
+
+Tela que permite ao usuário acessar a lista de medicamentos receitados por seu(s) médico(s) contendo informações como nome, descrição da droga, além de especificar dosagem e rotina dos remédios.
+
+![tela remedios](https://user-images.githubusercontent.com/106809153/203102384-bc677a51-2919-4d67-88d7-f78bf2ad00e0.png)
+
+#### Requisitos atendidos                                                                                                                                        
+●	RF-001 - Lista de medicamentos utilizados pelo usuário                                                                                                       
+●	RF-003 - Visualização da rotina dos medicamentos listados
+
+#### Artefatos da funcionalidade                                                                                                                               
+●	medicamentos.html                                                                                                                                           
+●	dbremedios.js                                                                                                                                               
+●	script_dbremedios.js                                                                                                                                         
+●	medicamentos.css
+
+#### Estrutura de Dados
+
+![código](https://user-images.githubusercontent.com/106809153/203111082-37235a8a-3907-48d4-9c8a-387051e06528.png)
+![data base](https://user-images.githubusercontent.com/106809153/203111080-5736b663-6851-425d-8d13-f359f70b135f.png)
+
+#### Instruções de acesso
+-	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;                                                                                   
+-	Descompacte o arquivo em uma pasta específica;                                                                                                               
+-	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
+-	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/medicamentos.html
+
+
+
+
+
+
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
