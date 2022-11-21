@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100vw;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+}
+
+.photo {
+    height: 50px;
+    width: 50px;
+    
+ }
+
+
+
+ul {
+list-style: none;
+}
+
+
+ul li >p {
+    text-align: justify;
+    align-items: center;
+    border: 505px;
+}
