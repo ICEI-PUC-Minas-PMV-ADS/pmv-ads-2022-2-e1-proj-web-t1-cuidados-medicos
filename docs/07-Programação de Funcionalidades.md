@@ -29,10 +29,27 @@ Tela que permite ao usuário acessar a lista de medicamentos receitados por seu(
 -	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
 -	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/medicamentos.html
 
+### Dietas (RF-005)
 
+Tela que permite o usuário a visualizar sua dieta
 
+![Tela de Dieta](https://user-images.githubusercontent.com/70419372/203146114-e5adbcdc-60f7-464b-a1e6-f4fcf5bda018.PNG)
 
+#### Requisitos atendidos                                                                                                                                        
+●	RF-005 - Dieta do usuário  
 
+#### Artefatos da funcionalidade                                                                                                                               
+●	dieta.html                                                                    
+●	dieta.css
+
+![Codigo HTML Dieta](https://user-images.githubusercontent.com/70419372/203147695-7b76b278-9df4-4f18-8361-3c1cb1c2c5e6.PNG)
+![CSS Dieta](https://user-images.githubusercontent.com/70419372/203147715-48262e26-b678-4c89-8b9d-d64cc7cfd851.PNG)
+
+#### Instruções de acesso
+-	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;                                                                                   
+-	Descompacte o arquivo em uma pasta específica;                                                                                                               
+-	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
+-	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/dieta.html
 
 
 
