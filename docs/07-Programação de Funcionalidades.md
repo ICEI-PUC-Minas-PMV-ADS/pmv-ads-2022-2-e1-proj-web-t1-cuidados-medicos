@@ -20,7 +20,6 @@ Tela que permite ao usuário acessar a lista de medicamentos receitados por seu(
 
 #### Estrutura de Dados
 
-![código](https://user-images.githubusercontent.com/106809153/203111082-37235a8a-3907-48d4-9c8a-387051e06528.png)
 ![data base](https://user-images.githubusercontent.com/106809153/203111080-5736b663-6851-425d-8d13-f359f70b135f.png)
 
 #### Instruções de acesso
