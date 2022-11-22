@@ -51,7 +51,29 @@ Tela que permite o usuário a visualizar sua dieta
 -	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
 -	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/dieta.html
 
+CONSULTAS (RF-004)
 
+Tela que permite o usuario visualizar as consultas agendadas
+
+![Captura de Tela corte](https://user-images.githubusercontent.com/114194617/203430441-eb78c86a-50a6-4da6-91c3-2e3224042173.png)
+
+#### Requisitos atendidos                                                                                                                                        
+
+●	RF-004 - Consultas do usuario
+
+Artefatos da Funcionalidade
+
+●consultas.html                                                                                                                                                         
+●consultas.css
+
+![Captura de Tela corte html](https://user-images.githubusercontent.com/114194617/203431506-5cb26d51-8226-4ed4-a977-0addaf0ebbf4.png)
+![Captura de Tela corte css](https://user-images.githubusercontent.com/114194617/203431691-b7dc8b26-147d-43ea-a2c6-f10dfe282294.png)
+
+#### Instruções de acesso
+-	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;                                                                                   
+-	Descompacte o arquivo em uma pasta específica;                                                                                                               
+-	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
+-	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/modelo_telas/consultas.html
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
