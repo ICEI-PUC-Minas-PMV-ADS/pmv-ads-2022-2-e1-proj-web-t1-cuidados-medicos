@@ -1,5 +1,20 @@
 # Plano de Testes de Software
 
+Os requisitos para realização dos testes de software são:                                                                                                     
+●	Site publicado na Internet                                                                                                                                   
+●	Navegador da Internet - Chrome, Firefox ou Edge                                                                                                             
+●	Conectividade de Internet para acesso à página.
+
+Os testes funcionais a serem realizados na solução desenvolvida são descritos a seguir.
+
+![teste 2](https://user-images.githubusercontent.com/106809153/203183059-478016ee-6f59-49c5-89c2-8a7133fcd3d8.jpg)
+
+
+
+
+
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
