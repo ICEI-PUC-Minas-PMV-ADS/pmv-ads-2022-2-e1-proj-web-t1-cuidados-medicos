@@ -4,7 +4,7 @@
     border: 2px solid;
     border-radius: 14px;
     margin: 10px;
-    width: 95%;
+    width: 100%;
 }
 
 li{
@@ -13,4 +13,8 @@ li{
 
 strong{
     text-align: center;
+}
+
+h1{
+    margin: 50px;
 }
