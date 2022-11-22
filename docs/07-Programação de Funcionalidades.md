@@ -51,7 +51,7 @@ Tela que permite o usuário a visualizar sua dieta
 -	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
 -	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/dieta.html
 
-CONSULTAS (RF-004)
+### Consultas (RF-004)
 
 Tela que permite o usuario visualizar as consultas agendadas
 
@@ -61,7 +61,7 @@ Tela que permite o usuario visualizar as consultas agendadas
 
 ●	RF-004 - Consultas do usuario
 
-Artefatos da Funcionalidade
+### Artefatos da Funcionalidade
 
 ●consultas.html                                                                                                                                                         
 ●consultas.css
