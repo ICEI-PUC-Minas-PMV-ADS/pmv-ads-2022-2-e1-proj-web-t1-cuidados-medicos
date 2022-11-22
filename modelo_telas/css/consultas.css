@@ -1,3 +1,7 @@
-p {
-    font-family: Arial, Helvetica, sans-serif;
+.container-flui {
+    font-family:Arial, Helvetica, sans-serifs;
+}
+
+li{
+    list-style-type: none;
 }
