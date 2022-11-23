@@ -9,6 +9,10 @@ Os testes funcionais a serem realizados na solução desenvolvida são descritos
 
 ![teste 2](https://user-images.githubusercontent.com/106809153/203183059-478016ee-6f59-49c5-89c2-8a7133fcd3d8.jpg)
 
+![corteexames](https://user-images.githubusercontent.com/114194617/203625276-4446ed53-f31e-4ccd-a2f2-c70afe5b7e4c.png)
+
+
+
 
 
 
