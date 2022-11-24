@@ -5,7 +5,7 @@ Teste de software: deseja-se testar se as funcionalidades da interface são boas
 
 Funcionalidades a serem testadas:
 
-##Tela relativa ao cadastro de médicos do site (CT-02).
+## Tela relativa ao cadastro de médicos do site (CT-02).
 
 Sequência de teste:                                                                                                                               
 
@@ -22,7 +22,7 @@ Passo 5 - Visualizar a tela solicitada com dados do profissional cadastrado
 ![tela medicos](https://user-images.githubusercontent.com/106809153/203185128-7af34bde-2cdf-4da2-a9d3-d1163510294a.png)
 
 
-##Tela que exibe consultas do paciente (CT-04)
+## Tela que exibe consultas do paciente (CT-04)
 
 Sequência de teste: 
 
