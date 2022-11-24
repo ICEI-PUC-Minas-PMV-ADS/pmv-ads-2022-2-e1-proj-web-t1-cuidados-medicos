@@ -12,5 +12,5 @@ Os testes funcionais a serem realizados na solução desenvolvida são descritos
 ![corteexames](https://user-images.githubusercontent.com/114194617/203625276-4446ed53-f31e-4ccd-a2f2-c70afe5b7e4c.png)
 
 
-
+![caso de teste 04](https://user-images.githubusercontent.com/70419372/203872492-f17cfbe0-3767-4e6f-9f18-27231514a8f4.PNG)
 
