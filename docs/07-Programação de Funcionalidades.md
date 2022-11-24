@@ -22,12 +22,6 @@ Tela que permite ao usuário acessar a lista de medicamentos receitados por seu(
 
 ![data base](https://user-images.githubusercontent.com/106809153/203111080-5736b663-6851-425d-8d13-f359f70b135f.png)
 
-#### Instruções de acesso
--	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;                                                                                   
--	Descompacte o arquivo em uma pasta específica;                                                                                                               
--	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
--	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/medicamentos.html
-
 ### Dietas (RF-005)
 
 Tela que permite o usuário a visualizar sua dieta
@@ -41,15 +35,6 @@ Tela que permite o usuário a visualizar sua dieta
 ●	dieta.html                                                                    
 ●	dieta.css
 
-![Codigo HTML Dieta](https://user-images.githubusercontent.com/70419372/203147695-7b76b278-9df4-4f18-8361-3c1cb1c2c5e6.PNG)
-![CSS Dieta](https://user-images.githubusercontent.com/70419372/203147715-48262e26-b678-4c89-8b9d-d64cc7cfd851.PNG)
-
-#### Instruções de acesso
--	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;                                                                                   
--	Descompacte o arquivo em uma pasta específica;                                                                                                               
--	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
--	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/dieta.html
-
 ### Consultas (RF-004)
 
 Tela que permite o usuario visualizar as consultas agendadas
@@ -57,33 +42,9 @@ Tela que permite o usuario visualizar as consultas agendadas
 ![Captura de Tela corte](https://user-images.githubusercontent.com/114194617/203430441-eb78c86a-50a6-4da6-91c3-2e3224042173.png)
 
 #### Requisitos atendidos                                                                                                                                        
-
 ●	RF-004 - Consultas do usuario
 
 ### Artefatos da Funcionalidade
 
 ●consultas.html                                                                                                                                                         
 ●consultas.css
-
-![Captura de Tela corte html](https://user-images.githubusercontent.com/114194617/203431506-5cb26d51-8226-4ed4-a977-0addaf0ebbf4.png)
-![Captura de Tela corte css](https://user-images.githubusercontent.com/114194617/203431691-b7dc8b26-147d-43ea-a2c6-f10dfe282294.png)
-
-#### Instruções de acesso
--	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;                                                                                   
--	Descompacte o arquivo em uma pasta específica;                                                                                                               
--	Abra o Visual Studio Code e execute o Live Server;                                                                                                           
--	Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/modelo_telas/consultas.html
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
-
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
