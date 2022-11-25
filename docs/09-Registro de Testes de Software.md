@@ -37,3 +37,27 @@ Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘consultas�
 
 Passo 5 - Visualizar a tela solicitada com dados da consulta agendada
 ![Capturar](https://user-images.githubusercontent.com/70419372/203872842-e4ea8f38-837e-4c7b-ad27-ac278049082c.PNG)
+
+## Tela que exibe exames agendados do paciente (CT-000)
+
+Sequência de teste:
+
+Passo1 -Informar o endereço do Site no Navegador
+
+![Captura de Tela (6)](https://user-images.githubusercontent.com/114194617/204060344-6059b136-f0ae-4b44-920e-420de10c407d.png)
+
+Passo 2 - Visualizar a página principal
+
+![Captura de Tela (7)](https://user-images.githubusercontent.com/114194617/204060437-243f87b9-170d-4894-b7cf-d33e9d3f7e5b.png)
+
+Passo 3 e 4 - Clicar no botão "menu" e em seguida na opção "exames"
+
+![Captura de Tela (8)](https://user-images.githubusercontent.com/114194617/204060510-0c54eabe-f63e-4cb4-b237-462641fbef06.png)
+
+Passo 5 - Visualizar a tela solicitada com os dados dos exames agendados
+
+![Captura de Tela (9)](https://user-images.githubusercontent.com/114194617/204060581-ac900709-b781-47e3-a4b5-2df3b3122bd6.png)
+
+
+
+
