@@ -7,6 +7,8 @@ Os requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados na solução desenvolvida são descritos a seguir.
 
+![card de caso de testes](https://user-images.githubusercontent.com/89563795/204110377-bc9d87f4-d799-40b2-80e4-d5651b6481a3.jpg)
+
 ![teste 2](https://user-images.githubusercontent.com/106809153/203851176-21fce7f2-a102-41e6-b72c-4896ff2e8119.png)
 
 ![caso de teste 04](https://user-images.githubusercontent.com/70419372/203872492-f17cfbe0-3767-4e6f-9f18-27231514a8f4.PNG)
