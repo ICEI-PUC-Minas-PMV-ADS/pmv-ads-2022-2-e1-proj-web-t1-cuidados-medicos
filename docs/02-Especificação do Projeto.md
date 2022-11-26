@@ -28,7 +28,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|--------------------------------------------------------------------------------------------------|----|
-|RF-001| Permitir o usuário cadastrar sua rotina de medicamentos   | ALTA | 
+|RF-001| Lista os medicamentos do usuário    | ALTA | 
 |RF-002| Permitir o usuário cadastrar seus médicos    | ALTA |
 |RF-003| Permitir o usuário visualizar sua rotina de medicamentos de forma diária, semanal ou mensal     | ALTA |
 |RF-004| Permitir o usuário visualizar suas consultas com os médicos de forma diária, semanal ou mensal  | ALTA |
