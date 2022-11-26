@@ -5,7 +5,7 @@ Teste de software: deseja-se testar se as funcionalidades da interface são boas
 
 Funcionalidades a serem testadas:
 
-## Tela relativa ao cadastro de médicos do site (CT-02).
+## Tela relativa ao cadastro de médicos do site (CT-01).
 
 Sequência de teste:                                                                                                                               
 
@@ -21,7 +21,7 @@ Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘médicos�
 Passo 5 - Visualizar a tela solicitada com dados do profissional cadastrado
 ![tela medicos](https://user-images.githubusercontent.com/106809153/203185128-7af34bde-2cdf-4da2-a9d3-d1163510294a.png)
 
-## Tela que exibe os medicamentos e seus dados juntamente com sua dosagem diária na tela.(CT-01) 
+## Tela que exibe os medicamentos e seus dados juntamente com sua dosagem diária na tela.(CT-02) 
 
 Sequência de teste:
 
@@ -31,7 +31,11 @@ Passo1 - Informar o endereço do Site no Navegador
 Passo 2 - Visualizar a página principal                                                                                                                       
 ![pag principal](https://user-images.githubusercontent.com/106809153/203184770-fd6d6e8b-37a9-4151-b521-08f26fa395eb.png)
 
-Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘Médicos’
+Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘Medicamentos’
+![medicamentos](https://user-images.githubusercontent.com/89563795/204111383-152f885a-d0a2-4c08-bc06-0f75dd60d3ca.jpg)
+
+Passo 5 -Visualizar a tela solicitada.
+![medicamento final](https://user-images.githubusercontent.com/89563795/204111441-48a2102b-d615-44b6-8bfd-06617d2cba7a.jpg)
 
 
 ## Tela que exibe consultas do paciente (CT-04)
