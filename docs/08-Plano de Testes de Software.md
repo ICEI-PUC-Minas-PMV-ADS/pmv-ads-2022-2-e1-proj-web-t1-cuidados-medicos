@@ -17,4 +17,4 @@ Os testes funcionais a serem realizados na solução desenvolvida são descritos
 
 ![teste exame](https://user-images.githubusercontent.com/106809153/204109594-1e23968c-1de2-4068-b777-034dfffaf44b.png)
 
-![card de caso de testes](https://user-images.githubusercontent.com/89563795/204110377-bc9d87f4-d799-40b2-80e4-d5651b6481a3.jpg)
+
