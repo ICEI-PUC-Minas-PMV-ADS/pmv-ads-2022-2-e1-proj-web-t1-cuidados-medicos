@@ -22,6 +22,24 @@ Tela que permite ao usuário acessar a lista de medicamentos receitados por seu(
 
 ![data base](https://user-images.githubusercontent.com/106809153/203111080-5736b663-6851-425d-8d13-f359f70b135f.png)
 
+### Médicos (RF-002)
+
+Tela que permite ao usuário acessar a lista de médicos juntamente com suas especialidades, disponibilidade e lugar de atendimento.
+
+![medicos](https://user-images.githubusercontent.com/89563795/204110748-fd708f4c-6267-457f-81dc-424744f64107.jpg)
+
+#### Requisitos atendidos
+●	RF-002 - Permitir o usuário cadastrar seus médicos
+
+#### Artefatos da funcionalidade
+●	medicos.html
+●	medicos.css
+
+
+#### Estrutura de Dados
+
+![estrutura de dados](https://user-images.githubusercontent.com/89563795/204110846-cfd17db2-f7e9-4dce-9349-d9ae07693061.jpg)
+
 ### Dietas (RF-005)
 
 Tela que permite o usuário a visualizar sua dieta
