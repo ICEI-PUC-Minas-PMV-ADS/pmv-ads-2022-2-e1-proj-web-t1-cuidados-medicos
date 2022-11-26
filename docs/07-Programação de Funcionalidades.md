@@ -35,7 +35,6 @@ Tela que permite ao usuário acessar a lista de médicos juntamente com suas esp
 ●	medicos.html
 ●	medicos.css
 
-
 #### Estrutura de Dados
 
 ![estrutura de dados](https://user-images.githubusercontent.com/89563795/204110846-cfd17db2-f7e9-4dce-9349-d9ae07693061.jpg)
