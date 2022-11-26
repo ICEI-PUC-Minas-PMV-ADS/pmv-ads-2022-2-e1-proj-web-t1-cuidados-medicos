@@ -71,6 +71,7 @@ Passo 2 - Visualizar a página principal
 Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘Dietas’
 ![png](https://user-images.githubusercontent.com/106809153/203184958-e6f1e8f4-f67a-49bd-84fc-8dfe94154c53.png)
 
+Passo 5 - Visualizar a tela solicitada com a dieta do paciente
 ![resultado 06](https://user-images.githubusercontent.com/70419372/204100651-318fa2af-973b-491b-a2ab-b5ca17546de9.PNG)
 
 
