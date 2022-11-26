@@ -46,5 +46,19 @@ Tela que permite o usuario visualizar as consultas agendadas
 
 ### Artefatos da Funcionalidade
 
-●consultas.html                                                                                                                                                         
+●consultas.html                                                                                                                                               
 ●consultas.css
+
+### Exames (RF-06)
+
+Tela que permite ao usuário acessar seus exames agendados.                                                                                                     
+![Exames](https://user-images.githubusercontent.com/106809153/204108422-53cccca7-3d93-44de-bd3d-8dedc87dfcc0.png)
+
+#### Requisitos atendidos                                                                                                                                        
+●	RF-006 - Exames agendados.  
+
+### Artefatos da Funcionalidade
+
+●exames.html                                                                                                                                               
+●exames.css
+
