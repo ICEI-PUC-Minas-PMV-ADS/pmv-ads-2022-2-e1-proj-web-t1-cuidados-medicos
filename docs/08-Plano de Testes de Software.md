@@ -14,3 +14,6 @@ Os testes funcionais a serem realizados na solução desenvolvida são descritos
 
 ![caso de teste 04](https://user-images.githubusercontent.com/70419372/203872492-f17cfbe0-3767-4e6f-9f18-27231514a8f4.PNG)
 
+![teste 06](https://user-images.githubusercontent.com/70419372/204100347-67a1685f-00d9-44dd-85f5-50fce3ff7d6a.PNG)
+
+
