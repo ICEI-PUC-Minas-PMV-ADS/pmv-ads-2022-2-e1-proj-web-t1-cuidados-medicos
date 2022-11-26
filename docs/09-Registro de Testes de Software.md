@@ -38,6 +38,22 @@ Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘consultas�
 Passo 5 - Visualizar a tela solicitada com dados da consulta agendada
 ![Capturar](https://user-images.githubusercontent.com/70419372/203872842-e4ea8f38-837e-4c7b-ad27-ac278049082c.PNG)
 
+## Tela que exibe dietas do paciente (CT-05)
+
+Sequência de teste: 
+
+Passo1 - Informar o endereço do Site no Navegador 
+![pagina inicial](https://user-images.githubusercontent.com/106809153/203184578-9b4ea0b0-7996-49a1-a4d3-8d8b60a6d1b4.png)
+
+Passo 2 - Visualizar a página principal                                                                                                                       
+![pag principal](https://user-images.githubusercontent.com/106809153/203184770-fd6d6e8b-37a9-4151-b521-08f26fa395eb.png)
+
+Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘Dietas’
+![png](https://user-images.githubusercontent.com/106809153/203184958-e6f1e8f4-f67a-49bd-84fc-8dfe94154c53.png)
+
+Passo 5 - Visualizar a tela solicitada com a dieta do paciente
+![resultado 06](https://user-images.githubusercontent.com/70419372/204100651-318fa2af-973b-491b-a2ab-b5ca17546de9.PNG)
+
 ## Tela que exibe exames agendados do paciente (CT-06)
 
 Sequência de teste:
@@ -57,24 +73,6 @@ Passo 3 e 4 - Clicar no botão "menu" e em seguida na opção "exames"
 Passo 5 - Visualizar a tela solicitada com os dados dos exames agendados
 
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/114194617/204060581-ac900709-b781-47e3-a4b5-2df3b3122bd6.png)
-
-## Tela que exibe dietas do paciente (CT-05)
-
-Sequência de teste: 
-
-Passo1 - Informar o endereço do Site no Navegador 
-![pagina inicial](https://user-images.githubusercontent.com/106809153/203184578-9b4ea0b0-7996-49a1-a4d3-8d8b60a6d1b4.png)
-
-Passo 2 - Visualizar a página principal                                                                                                                       
-![pag principal](https://user-images.githubusercontent.com/106809153/203184770-fd6d6e8b-37a9-4151-b521-08f26fa395eb.png)
-
-Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘Dietas’
-![png](https://user-images.githubusercontent.com/106809153/203184958-e6f1e8f4-f67a-49bd-84fc-8dfe94154c53.png)
-
-Passo 5 - Visualizar a tela solicitada com a dieta do paciente
-![resultado 06](https://user-images.githubusercontent.com/70419372/204100651-318fa2af-973b-491b-a2ab-b5ca17546de9.PNG)
-
-
 
 
 
