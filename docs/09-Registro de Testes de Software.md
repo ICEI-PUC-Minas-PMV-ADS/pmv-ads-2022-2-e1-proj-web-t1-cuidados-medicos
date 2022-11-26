@@ -38,7 +38,7 @@ Passos 3 e 4 - Clicar no botão ‘menu’ e em seguida na opção ‘consultas�
 Passo 5 - Visualizar a tela solicitada com dados da consulta agendada
 ![Capturar](https://user-images.githubusercontent.com/70419372/203872842-e4ea8f38-837e-4c7b-ad27-ac278049082c.PNG)
 
-## Tela que exibe exames agendados do paciente (CT-000)
+## Tela que exibe exames agendados do paciente (CT-06)
 
 Sequência de teste:
 
@@ -58,7 +58,7 @@ Passo 5 - Visualizar a tela solicitada com os dados dos exames agendados
 
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/114194617/204060581-ac900709-b781-47e3-a4b5-2df3b3122bd6.png)
 
-## Tela que exibe dietas do paciente (CT-06)
+## Tela que exibe dietas do paciente (CT-05)
 
 Sequência de teste: 
 
