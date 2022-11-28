@@ -3,8 +3,10 @@
     flex-direction: column;
     border: 2px solid;
     border-radius: 14px;
-    margin: 10px;
-    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 4px;
+    width: 30%;
+    font-size: 20px;
 }
 
 li{
@@ -13,4 +15,7 @@ li{
 
 strong{
     text-align: center;
+}
+.width100{
+    width: 100%;
 }

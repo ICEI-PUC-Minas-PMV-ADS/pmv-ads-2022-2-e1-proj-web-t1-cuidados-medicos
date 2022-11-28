@@ -3,8 +3,10 @@
     flex-direction: column;
     border: 2px solid;
     border-radius: 14px;
-    margin: 10px;
-    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 4px;
+    width: 30%;
+    font-size: 20px;
 }
 
 li{
@@ -17,4 +19,7 @@ strong{
 
 h1{
     margin: 50px;
+}
+.width100{
+    width: 100%;
 }
