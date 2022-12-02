@@ -3,30 +3,37 @@
     padding: 0;
 }
 
-.header{
-    width: 100vw;
+.title {
+    margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 .block{
+    border: 1px solid;
     display: flex;
-    flex-direction: column;
+    margin:0 auto;
+    width: 40%;
+    border-radius: 10px;
+    margin-bottom: 7px;
 }
 
-.photo {
-    height: 100px;
-    width: 100px;
-    
- }
-
-
+.width100{
+    width: 100%;
+}
 
 ul {
-list-style: none;
+    list-style: none;
+    padding-left: 10px;
 }
 
-
-ul li >p {
-    text-align: justify;
-    align-items: center;
-    border: 505px;
+li {
+    font-size: 16px;
 }
+
+.grupo{
+    display: flex;   
+}
+
+.photo{
+    width: 45%;
+}   
