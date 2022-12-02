@@ -41,7 +41,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* <a>[https\\cuidados-medicos-ac1c1.firebaseapp.com](https://cuidados-medicos-ac1c1.firebaseapp.com/)</a>  
+* <a href="https://cuidados-medicos-ac1c1.firebaseapp.com/" target="_blank">Cuidados médicos</a>    
 
 # Armazenamento do Código-Fonte
 
