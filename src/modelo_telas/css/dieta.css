@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.block{
+    border: 1px solid;
+    display: flex;
+    margin:0 auto;
+    width: 40%;
+    border-radius: 10px;
+    margin-bottom: 7px;
+}
+
+.width100{
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding-left: 10px;
+}
+
+li {
+    font-size: 16px;
+}
+
+.grupo{
+    display: flex;   
+}
+
+.photo{
+    width: 45%;
+}   
